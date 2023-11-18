@@ -35,14 +35,14 @@ There are quite a few goals for this case study:
 ## Steps Followed
 For this case study we're going to use several classification model to predict whether the lead is going to quantify as a hot lead. The steps involved for this case study are mentioned below:
 
-Data Loading
-Data Exploration a.k.a Exploratory Data Analysis
-Preprocessing
-Feature Engineering
-Outlier Analysis
-Model Building
-Model Performance Evaluation
-Model Diagnosis Using ROC AUC Curve, Precision-Recall Curve
+1. Data Loading
+2. Data Exploration a.k.a Exploratory Data Analysis
+3. Preprocessing
+4. Feature Engineering
+5. Outlier Analysis
+6. Model Building
+7. Model Performance Evaluation
+8. Model Diagnosis Using ROC AUC Curve, Precision-Recall Curve
  
 
 ## Results Expected
